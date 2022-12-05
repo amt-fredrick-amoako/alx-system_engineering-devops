@@ -13,3 +13,9 @@ a-z
 hiago
 reverse
 users and homes
+-------------------------------------------------------------------------------------------------------------------
+advanced tasks
+empty casks
+gits
+acrostic
+the biggest fan
